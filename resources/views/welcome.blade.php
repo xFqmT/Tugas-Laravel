@@ -89,9 +89,9 @@
                 </div>
 
                 <div class="links">
-                    <a href="#">About</a>
-                    <a href="#">Instagram</a>
-                    <a href="#">Discord</a>
+                    <a href="https://www.youtube.com/@Famte_">Youtube</a>
+                    <a href="https://www.instagram.com/famuute/">Instagram</a>
+                    <a href="https://discord.gg/U3e3XtTeQy">Discord</a>
                 </div>
             </div>
         </div>
